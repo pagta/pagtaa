@@ -1,0 +1,93 @@
+body{
+ background-color: #ABB2B9 
+ }
+
+div#brit{
+	background-color:#5D6D7E;
+	margin: auto;
+	height:1200px;
+	width: 950px;
+	margin-top: opx;
+}
+
+div#elkin{
+	background-color:#95A5A6;
+	background-image: url(https://news.microsoft.com/wp-content/uploads/prod/sites/41/2021/05/La-Liga-2020_2021-Playoffs-Final-Juego-1-Quimsa-1-vs-San-Lorenzo-0-2-1024x740.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding:2px;
+	margin-left: 75px;
+	width:800px;
+	height: 350px;
+	text-align: center;
+	font-size: 50px;
+	font-family: Bradley Hand;
+	color: #1F618D;
+}
+
+img#luli{
+    width: 880px;
+    height: 350px;
+}
+
+.luli2{
+    width: 300px;
+    height: 150px;
+    background-color: darkgray;
+    float:right;
+    margin-top: 40px;
+    margin-right: 10px;
+}
+.luli3{
+    width: 300px;
+    height: 200px;
+    background-color: darkgray;
+    float:right;
+    margin-left: 10px;
+}	
+
+div#ari3{
+    background-color:#AEB6BF;
+    width: 590px;
+    height: 600px;
+    margin-top: 40px;
+    margin-left: 10px;
+    text-align: justify;
+    font-size: 25px;
+    font-family: Helvatica;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 7px;
+}
+
+div#ari4{
+    background-color:#E5E7E9 ;
+    margin-top: 50px;
+    width: 950px;
+    height: 80px;
+    text-align: center;
+	font-family: Bradley Hand;
+}
+
+iframe#ari5{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+ul#menu li{
+    display: inline;
+}
+
+ul#menu li a {
+    background-color:black;
+    color: #6C3483 ;
+    padding: 10px 15px;
+    text-decoration:none;
+    font-family: impact;
+    border-radius:7px 7px 0 0;
+    font-size:30px;
+}
+
+ul#menu li a:hover {
+    background-color:#6C3483;
+}
